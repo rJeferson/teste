@@ -1,5 +1,4 @@
 <h1>Jeferson - Arsenon</h1>
-<br>
 <h2>Linguagens utilizadas</h2>
 <ul>
   <li>Delphi</li>
